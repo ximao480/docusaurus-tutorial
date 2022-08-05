@@ -1,6 +1,0 @@
-# ark-ui-doc
-Doc of ark-ui
-# 触发器
-https://cs.console.aliyun.com/hook/trigger?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbHVzdGVySWQiOiJjM2JlMDYyZDk3ZGNlNDFjZWJhOTljZDhhZDRkOWVjNWMiLCJpZCI6IjY4NzkyIn0.perjiZ0v2PTO0ugw089Rn4mt9dsjAsPUbtwMGo1DeNjgRJEkspazHdruyqUW7WIyitikpb5UB-EFI9lEqxB2tl-CYC2ZOMmiBcE7689R0ucjX5wON6R4BA6kAHOm9zJvcJO0hvlb7RCJtaW2ElzAn1s8d_JLq3IcMUvjky2X4Rg
-
-
